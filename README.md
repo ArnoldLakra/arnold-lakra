@@ -10,7 +10,7 @@ I'm a BCA Student specializing in *Cyber Security* at ANA College. I use GitHub 
 - Solving hands-on labs on platforms like TryHackMe and HackTheBox.
 
 ### 🛠️ Tech & Tools I'm exploring:
-- *Languages:* Python, Bash, HTML/CSS
+- *Languages:* C, Python, Bash, HTML/CSS
 - *OS/Environments:* Linux (Kali, Ubuntu), Windows Subsystem for Linux (WSL)
 - *Tools:* Wireshark, Nmap, Git/GitHub
 
