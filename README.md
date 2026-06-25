@@ -1,5 +1,5 @@
 
-### Hi, I'm Arnold Lakra! 👋  
+### Hi, I'm Arnold Mishel Lakra! 👋  
 **BCA Student @ ANA College | Learning Cloud Security**
 
 I don't fake experience. I'm a student currently building a rock-solid foundation from the terminal up. No hype, just daily practice.
